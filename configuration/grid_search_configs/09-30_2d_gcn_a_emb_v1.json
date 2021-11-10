@@ -1,0 +1,55 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "json_files": [
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_2L_v0.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_2L_v1.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_2L_v2.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_2L_v3.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_2L_v4.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_2L_v5.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_2L_v6.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_2L_v7.json",
+
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_2L_v9.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_2L_v10.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_2L_v11.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_2L_v12.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_3L_v0.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_3L_v1.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_3L_v2.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_3L_v3.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_3L_v4.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_3L_v5.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_3L_v6.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_3L_v7.json",
+
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_3L_v9.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_3L_v10.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_3L_v11.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_2B_3L_v12.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_3B_2L_v0.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_3B_2L_v1.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_3B_2L_v2.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_3B_2L_v3.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_3B_2L_v4.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_3B_2L_v5.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_3B_2L_v6.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_3B_2L_v7.json",
+
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_3B_2L_v9.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_3B_2L_v10.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_3B_2L_v11.json",
+    "09-30_2d_gcn_a_emb_v1/09-30_2d_gcn_a_emb_v1_3B_2L_v12.json"
+  ]
+}

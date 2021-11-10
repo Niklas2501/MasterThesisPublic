@@ -1,0 +1,26 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "json_files": [
+    "_ablation_study/ablation_study_0_same.json",
+    "_ablation_study/ablation_study_1_dila_1.json",
+    "_ablation_study/ablation_study_2_a_i.json",
+    "_ablation_study/ablation_study_3_wout_knn.json",
+    "_ablation_study/ablation_study_4_wout_norm.json",
+    "_ablation_study/ablation_study_5_wout_loops.json",
+    "_ablation_study/ablation_study_6_wout_weight_share.json",
+    "_ablation_study/ablation_study_7_g-1x1.json",
+    "_ablation_study/ablation_study_8_l1.json",
+    "_ablation_study/ablation_study_9_rand_init.json"
+  ]
+}

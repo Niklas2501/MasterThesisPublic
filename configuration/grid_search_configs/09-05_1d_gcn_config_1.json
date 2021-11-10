@@ -1,0 +1,69 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "modifications": [
+    [
+      "adaptive_lr",
+      "share_graph_weights"
+    ],
+    [
+      "adaptive_lr"
+    ],
+    [
+      "adaptive_lr",
+      "share_graph_weights",
+      "l1_reg"
+    ],
+    [
+      "adaptive_lr",
+      "l1_reg"
+    ],
+    [
+      "adaptive_lr",
+      "share_graph_weights",
+      "force_identity"
+    ],
+    [
+      "adaptive_lr",
+      "force_identity"
+    ],
+    [
+      "adaptive_lr",
+      "share_graph_weights",
+      "force_normalisation"
+    ],
+    [
+      "adaptive_lr",
+      "force_identity",
+      "force_normalisation"
+    ]
+  ],
+  "activation": [
+    "relu",
+    "leaky_relu"
+  ],
+  "a_variant": [
+    "a_emb_v1",
+    "a_emb_v2",
+    "a_emb_v3",
+    "a_emb_rand",
+    "a_opt",
+    "a_param"
+  ],
+  "var_parameter": [
+    -1
+  ],
+  "res_connection": [
+    "v0"
+  ]
+}

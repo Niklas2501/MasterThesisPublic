@@ -1,0 +1,19 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "json_files": [
+    "08-27_res_test/08-27_res_test_0.json",
+    "08-27_res_test/08-27_res_test_1.json",
+    "08-27_res_test/08-27_res_test_2.json"
+  ]
+}

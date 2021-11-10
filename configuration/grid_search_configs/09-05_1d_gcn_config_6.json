@@ -1,0 +1,79 @@
+{
+  "notes": "a_opt, a_param with leaky_relu activation",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "modifications": [
+    [
+      "adaptive_lr"
+    ],
+    [
+      "adaptive_lr",
+      "knn_red"
+    ],
+    [
+      "adaptive_lr",
+      "l1_reg"
+    ],
+    [
+      "adaptive_lr",
+      "knn_red",
+      "force_identity"
+    ],
+    [
+      "adaptive_lr",
+      "knn_red",
+      "force_identity",
+      "force_normalisation"
+    ],
+    [
+      "adaptive_lr",
+      "share_graph_weights"
+    ],
+    [
+      "adaptive_lr",
+      "knn_red",
+      "share_graph_weights"
+    ],
+    [
+      "adaptive_lr",
+      "l1_reg",
+      "share_graph_weights"
+    ],
+    [
+      "adaptive_lr",
+      "knn_red",
+      "force_identity",
+      "share_graph_weights"
+    ],
+    [
+      "adaptive_lr",
+      "knn_red",
+      "force_identity",
+      "force_normalisation",
+      "share_graph_weights"
+    ]
+  ],
+  "activation": [
+    "relu",
+    "leaky_relu"
+  ],
+  "a_variant": [
+    "a_opt",
+    "a_param"
+  ],
+  "var_parameter": [
+    10
+  ],
+  "res_connection": [
+    "v0"
+  ]
+}

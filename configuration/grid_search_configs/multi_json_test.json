@@ -1,0 +1,19 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "json_files": [
+    "gs_debugging_0.json",
+    "gs_debugging_1.json",
+    "gs_debugging_2.json"
+  ]
+}

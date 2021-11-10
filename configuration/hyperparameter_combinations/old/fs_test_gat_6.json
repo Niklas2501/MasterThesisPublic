@@ -1,0 +1,53 @@
+{
+  "time_series_length": null,
+  "time_series_depth": null,
+  "notes": "",
+  "spacer0": "###################### General hyperparameters for all models ######################",
+  "architecture_variant": "stgcn_1d",
+  "modifications": [
+    "share_graph_weights", "adaptive_lr"
+  ],
+  "batch_size": 64,
+  "epochs": 2000,
+  "learning_rate": 0.0001,
+  "dropout_rate": 0.0,
+  "early_stopping_enabled": true,
+  "early_stopping_limit": 15,
+  "gradient_cap_enabled": true,
+  "gradient_cap": 20,
+  "loss_function": "categorical_crossentropy",
+  "spacer1": "###################### Layer configuration ######################",
+  "cnn_1D_filters": [
+    64,
+    64,
+    64,
+    64
+  ],
+  "cnn_1D_filter_sizes": [
+    3,
+    3,
+    3,
+    3
+  ],
+  "cnn_1D_dilation_rates": [
+    2,
+    4,
+    8,
+    8
+  ],
+  "cnn_1D_padding": "causal",
+  "cnn_2D_filters": [],
+  "cnn_2D_filter_sizes": [],
+  "cnn_2D_dilation_rates": [],
+  "spacer2": "############# General model configuration #############",
+  "activation": "relu",
+  "a_variant": "a_pre",
+  "permute_before_agg": true,
+  "final_agg": "global_avg",
+  "spacer3": "############# ST block configuration #############",
+  "gnn_type": "gat",
+  "gnn_layer_parameter": 1,
+  "var_parameter": -1,
+  "nbr_st_blocks": 2,
+  "conv_after_graph": true
+}

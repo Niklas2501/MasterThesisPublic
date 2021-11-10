@@ -1,0 +1,100 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "json_files": [
+    "08-27_gat_selected/08-27_gat_2_B_4_L_1_sum.json",
+    "08-27_gat_selected/08-27_gat_3_B_2_L_54_sum.json",
+    "08-27_gat_selected/08-27_gat_4_B_2_L_67_sum.json",
+    "08-27_gat_selected/08-27_gat_2_B_4_L_1_att_sum.json",
+    "08-27_gat_selected/08-27_gat_3_B_2_L_54_att_sum.json",
+    "08-27_gat_selected/08-27_gat_4_B_2_L_67_att_sum.json"
+  ],
+  "json_files_4": [
+    "08-27_gat_selected/08-27_gat_2_B_4_L_1_dr_20.json",
+    "08-27_gat_selected/08-27_gat_3_B_2_L_54_dr_20.json",
+    "08-27_gat_selected/08-27_gat_4_B_2_L_67_dr_20.json"
+  ],
+  "json_files_3": [
+    "08-27_gat_selected/08-27_gat_2_B_2_L_58_more.json",
+    "08-27_gat_selected/08-27_gat_2_B_3_L_6_more.json",
+    "08-27_gat_selected/08-27_gat_2_B_4_L_1_more.json",
+    "08-27_gat_selected/08-27_gat_3_B_2_L_54_more.json",
+    "08-27_gat_selected/08-27_gat_4_B_2_L_67_more.json",
+    "08-27_gat_selected/08-27_gat_2_B_2_L_58_less.json",
+    "08-27_gat_selected/08-27_gat_2_B_3_L_6_less.json",
+    "08-27_gat_selected/08-27_gat_2_B_4_L_1_less.json",
+    "08-27_gat_selected/08-27_gat_3_B_2_L_54_less.json",
+    "08-27_gat_selected/08-27_gat_4_B_2_L_67_less.json",
+    "08-27_gat_selected/08-27_gat_2_B_2_L_58_dr_15.json",
+    "08-27_gat_selected/08-27_gat_2_B_3_L_6_dr_15.json",
+    "08-27_gat_selected/08-27_gat_2_B_4_L_1_dr_15.json",
+    "08-27_gat_selected/08-27_gat_3_B_2_L_54_dr_15.json",
+    "08-27_gat_selected/08-27_gat_4_B_2_L_67_dr_15.json",
+    "08-27_gat_selected/08-27_gat_2_B_2_L_58_dr_30.json",
+    "08-27_gat_selected/08-27_gat_2_B_3_L_6_dr_30.json",
+    "08-27_gat_selected/08-27_gat_2_B_4_L_1_dr_30.json",
+    "08-27_gat_selected/08-27_gat_3_B_2_L_54_dr_30.json",
+    "08-27_gat_selected/08-27_gat_4_B_2_L_67_dr_30.json",
+    "08-27_gat_selected/08-27_gat_2_B_2_L_58_heads.json",
+    "08-27_gat_selected/08-27_gat_2_B_3_L_6_heads.json",
+    "08-27_gat_selected/08-27_gat_2_B_4_L_1_heads.json",
+    "08-27_gat_selected/08-27_gat_3_B_2_L_54_heads.json",
+    "08-27_gat_selected/08-27_gat_4_B_2_L_67_heads.json",
+    "08-27_gat_selected/08-27_gat_2_B_2_L_58_gc.json",
+    "08-27_gat_selected/08-27_gat_2_B_3_L_6_gc.json",
+    "08-27_gat_selected/08-27_gat_2_B_4_L_1_gc.json",
+    "08-27_gat_selected/08-27_gat_3_B_2_L_54_gc.json",
+    "08-27_gat_selected/08-27_gat_4_B_2_L_67_gc.json",
+    "08-27_gat_selected/08-27_gat_2_B_2_L_58_shared_inv.json",
+    "08-27_gat_selected/08-27_gat_2_B_3_L_6_shared_inv.json",
+    "08-27_gat_selected/08-27_gat_2_B_4_L_1_shared_inv.json",
+    "08-27_gat_selected/08-27_gat_3_B_2_L_54_shared_inv.json",
+    "08-27_gat_selected/08-27_gat_4_B_2_L_67_shared_inv.json"
+  ],
+  "json_files_2": [
+    "08-27_gat_selected/08-27_gat_2_B_2_L_58_v1.json",
+    "08-27_gat_selected/08-27_gat_2_B_3_L_6_v1.json",
+    "08-27_gat_selected/08-27_gat_2_B_4_L_1_v1.json",
+    "08-27_gat_selected/08-27_gat_3_B_2_L_54_v1.json",
+    "08-27_gat_selected/08-27_gat_4_B_2_L_67_v1.json",
+    "08-27_gat_selected/08-27_gat_2_B_2_L_58_v2.json",
+    "08-27_gat_selected/08-27_gat_2_B_3_L_6_v2.json",
+    "08-27_gat_selected/08-27_gat_2_B_4_L_1_v2.json",
+    "08-27_gat_selected/08-27_gat_3_B_2_L_54_v2.json",
+    "08-27_gat_selected/08-27_gat_4_B_2_L_67_v2.json",
+    "08-27_gat_selected/08-27_gat_2_B_2_L_58_v3.json",
+    "08-27_gat_selected/08-27_gat_2_B_3_L_6_v3.json",
+    "08-27_gat_selected/08-27_gat_2_B_4_L_1_v3.json",
+    "08-27_gat_selected/08-27_gat_3_B_2_L_54_v3.json",
+    "08-27_gat_selected/08-27_gat_4_B_2_L_67_v3.json",
+    "08-27_gat_selected/08-27_gat_2_B_2_L_58_v4.json",
+    "08-27_gat_selected/08-27_gat_2_B_3_L_6_v4.json",
+    "08-27_gat_selected/08-27_gat_2_B_4_L_1_v4.json",
+    "08-27_gat_selected/08-27_gat_3_B_2_L_54_v4.json",
+    "08-27_gat_selected/08-27_gat_4_B_2_L_67_v4.json"
+  ],
+  "json_files_1": [
+    "08-27_gat_selected/08-27_gat_2_B_2_L_58_relu.json",
+    "08-27_gat_selected/08-27_gat_2_B_3_L_6_relu.json",
+    "08-27_gat_selected/08-27_gat_2_B_4_L_1_relu.json",
+    "08-27_gat_selected/08-27_gat_3_B_2_L_54_relu.json",
+    "08-27_gat_selected/08-27_gat_4_B_2_L_67_relu.json"
+  ],
+  "json_files_0": [
+    "08-27_gat_selected/08-27_gat_2_B_2_L_58.json",
+    "08-27_gat_selected/08-27_gat_2_B_3_L_6.json",
+    "08-27_gat_selected/08-27_gat_2_B_4_L_1.json",
+    "08-27_gat_selected/08-27_gat_3_B_2_L_54.json",
+    "08-27_gat_selected/08-27_gat_4_B_2_L_67.json"
+  ]
+}

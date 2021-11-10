@@ -1,0 +1,38 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "json_files": [
+    "09-13_seq_beta/09-13_seq_beta_v0.json",
+    "09-13_seq_beta/09-13_seq_beta_v1.json",
+    "09-13_seq_beta/09-13_seq_beta_v2.json",
+    "09-13_seq_beta/09-13_seq_beta_v3.json",
+    "09-13_seq_beta/09-13_seq_beta_v4.json",
+    "09-13_seq_beta/09-13_seq_beta_v5.json",
+    "09-13_seq_beta/09-13_seq_beta_v6.json",
+    "09-13_seq_beta/09-13_seq_beta_v7.json",
+    "09-13_seq_beta/09-13_seq_beta_v8.json",
+    "09-13_seq_beta/09-13_seq_beta_v9.json",
+    "09-13_seq_beta/09-13_seq_beta_v10.json",
+    "09-13_seq_beta/09-13_seq_beta_v11.json",
+    "09-13_seq_beta/09-13_seq_beta_v12.json",
+    "09-13_seq_beta/09-13_seq_beta_v13.json",
+    "09-13_seq_beta/09-13_seq_beta_v14.json",
+    "09-13_seq_beta/09-13_seq_beta_v15.json",
+    "09-13_seq_beta/09-13_seq_beta_v16.json",
+    "09-13_seq_beta/09-13_seq_beta_v17.json",
+    "09-13_seq_beta/09-13_seq_beta_v18.json",
+    "09-13_seq_beta/09-13_seq_beta_v19.json",
+    "09-13_seq_beta/09-13_seq_beta_v20.json",
+    "09-13_seq_beta/09-13_seq_beta_v21.json"
+  ]
+}

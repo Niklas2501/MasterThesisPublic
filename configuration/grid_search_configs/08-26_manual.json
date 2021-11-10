@@ -1,0 +1,19 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "json_files": [
+    "08-26_manual/08-26_manual_2_blocks_4_layers_7.json",
+    "08-26_manual/08-26_manual_2_blocks_4_layers_8.json",
+    "08-26_manual/08-26_manual_2_blocks_4_layers_9.json"
+  ]
+}

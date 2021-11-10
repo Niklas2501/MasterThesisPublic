@@ -1,0 +1,30 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "json_files": [
+    "09-17_1d_gat_final_tests/08-27_gat_3_B_2_L_54.json",
+    "09-17_1d_gat_final_tests/08-27_gat_3_B_2_L_54_v1.json",
+    "09-17_1d_gat_final_tests/08-27_gat_3_B_2_L_54_v2.json",
+    "09-17_1d_gat_final_tests/08-27_gat_3_B_2_L_54_v3.json",
+    "09-17_1d_gat_final_tests/08-27_gat_3_B_2_L_54_v4.json",
+    "09-17_1d_gat_final_tests/08-27_gat_3_B_2_L_54_same.json",
+    "09-17_1d_gat_final_tests/08-27_gat_3_B_2_L_54_sum.json",
+    "09-17_1d_gat_final_tests/08-27_gat_3_B_2_L_54_att_sum.json",
+    "09-17_1d_gat_final_tests/08-27_gat_3_B_2_L_54_forced_loops.json",
+    "09-17_1d_gat_final_tests/08-27_gat_3_B_2_L_54_heads.json",
+    "09-17_1d_gat_final_tests/08-27_gat_3_B_2_L_54_less.json",
+    "09-17_1d_gat_final_tests/08-27_gat_3_B_2_L_54_more.json",
+    "09-17_1d_gat_final_tests/08-27_gat_3_B_2_L_54_relu.json",
+    "09-17_1d_gat_final_tests/08-27_gat_3_B_2_L_54_shared_inv.json"
+  ]
+}

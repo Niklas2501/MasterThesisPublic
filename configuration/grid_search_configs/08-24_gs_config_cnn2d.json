@@ -1,0 +1,29 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "json_files": [
+    "08-24_gs_cnn2d/08-24_gs_cnn2d_0.json",
+    "08-24_gs_cnn2d/08-24_gs_cnn2d_1.json",
+    "08-24_gs_cnn2d/08-24_gs_cnn2d_2.json",
+    "08-24_gs_cnn2d/08-24_gs_cnn2d_3.json",
+    "08-24_gs_cnn2d/08-24_gs_cnn2d_4.json",
+    "08-24_gs_cnn2d/08-24_gs_cnn2d_5.json",
+    "08-24_gs_cnn2d/08-24_gs_cnn2d_6.json",
+    "08-24_gs_cnn2d/08-24_gs_cnn2d_7.json",
+    "08-24_gs_cnn2d/08-24_gs_cnn2d_8.json",
+    "08-24_gs_cnn2d/08-24_gs_cnn2d_9.json",
+    "08-24_gs_cnn2d/08-24_gs_cnn2d_10.json",
+    "08-24_gs_cnn2d/08-24_gs_cnn2d_11.json",
+    "08-24_gs_cnn2d/08-24_gs_cnn2d_12.json"
+  ]
+}

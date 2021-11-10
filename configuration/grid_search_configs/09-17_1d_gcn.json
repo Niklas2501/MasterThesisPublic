@@ -1,0 +1,21 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "json_files": [
+    "09-17_1d_gcn/09-17_1d_gcn_m1_v0.json",
+    "09-17_1d_gcn/09-17_1d_gcn_m2_v0.json",
+    "09-17_1d_gcn/09-17_1d_gcn_m3_v0.json",
+    "09-17_1d_gcn/09-17_1d_gcn_m4_v0.json",
+    "09-17_1d_gcn/09-17_1d_gcn_m5_v0.json"
+  ]
+}

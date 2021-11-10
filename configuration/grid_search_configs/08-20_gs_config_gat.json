@@ -1,0 +1,37 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "json_files": [
+    "08-19_gs_gat/08-19_gs_gat_0",
+    "08-19_gs_gat/08-19_gs_gat_1",
+    "08-19_gs_gat/08-19_gs_gat_2",
+    "08-19_gs_gat/08-19_gs_gat_3",
+    "08-19_gs_gat/08-19_gs_gat_4",
+    "08-19_gs_gat/08-19_gs_gat_5",
+    "08-19_gs_gat/08-19_gs_gat_6",
+    "08-19_gs_gat/08-19_gs_gat_7",
+    "08-19_gs_gat/08-19_gs_gat_8",
+    "08-19_gs_gat/08-19_gs_gat_9",
+    "08-19_gs_gat/08-19_gs_gat_10",
+    "08-19_gs_gat/08-19_gs_gat_11",
+    "08-19_gs_gat/08-19_gs_gat_12",
+    "08-19_gs_gat/08-19_gs_gat_13",
+    "08-19_gs_gat/08-19_gs_gat_14",
+    "08-19_gs_gat/08-19_gs_gat_15",
+    "08-19_gs_gat/08-19_gs_gat_16",
+    "08-19_gs_gat/08-19_gs_gat_17",
+    "08-19_gs_gat/08-19_gs_gat_18",
+    "08-19_gs_gat/08-19_gs_gat_19",
+    "08-19_gs_gat/08-19_gs_gat_20"
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "dm_2_i1_position_switch_pressed_00": [
+    "dm_2_i1_position_switch_pressed",
+    "0.0"
+  ],
+  "dm_2_i1_position_switch_pressed": [
+    "dm_2_i1_position_switch_pressed",
+    "1.0"
+  ],
+  "dm_2_i2_position_switch_pressed_00": [
+    "dm_2_i2_position_switch_pressed",
+    "0.0"
+  ],
+  "dm_2_i2_position_switch_pressed": [
+    "dm_2_i2_position_switch_pressed",
+    "1.0"
+  ],
+  "dm_2_i4_light_barrier_interrupted_00": [
+    "dm_2_i4_light_barrier_interrupted",
+    "0.0"
+  ],
+  "dm_2_i4_light_barrier_interrupted": [
+    "dm_2_i4_light_barrier_interrupted",
+    "1.0"
+  ],
+  "dm_2_i5_light_barrier_interrupted_00": [
+    "dm_2_i5_light_barrier_interrupted",
+    "0.0"
+  ],
+  "dm_2_i5_light_barrier_interrupted": [
+    "dm_2_i5_light_barrier_interrupted",
+    "1.0"
+  ],
+  "dm_2_i6_capacitive_sensor_electric_field_changed_00": [
+    "dm_2_i6_capacitive_sensor_electric_field_changed",
+    "0.0"
+  ],
+  "dm_2_i6_capacitive_sensor_electric_field_changed": [
+    "dm_2_i6_capacitive_sensor_electric_field_changed",
+    "1.0"
+  ],
+  "dm_2_i7_capacitive_sensor_electric_field_changed_00": [
+    "dm_2_i7_capacitive_sensor_electric_field_changed",
+    "0.0"
+  ],
+  "dm_2_i7_capacitive_sensor_electric_field_changed": [
+    "dm_2_i7_capacitive_sensor_electric_field_changed",
+    "1.0"
+  ],
+  "dm_2_i8_capacitive_sensor_electric_field_changed_00": [
+    "dm_2_i8_capacitive_sensor_electric_field_changed",
+    "0.0"
+  ],
+  "dm_2_i8_capacitive_sensor_electric_field_changed": [
+    "dm_2_i8_capacitive_sensor_electric_field_changed",
+    "1.0"
+  ],
+  "hbw": [
+    "hbw_1_i8_position_switch_pressed",
+    "0.0"
+  ],
+  "hbw_1_i1_light_barrier_interrupted": [
+    "hbw_1_i1_light_barrier_interrupted",
+    "1.0"
+  ],
+  "hbw_1_i2_light_barrier_interrupted": [
+    "hbw_1_i2_light_barrier_interrupted",
+    "1.0"
+  ],
+  "hbw_1_i3_light_barrier_interrupted": [
+    "hbw_1_i3_light_barrier_interrupted",
+    "1.0"
+  ],
+  "hbw_1_i4_light_barrier_interrupted": [
+    "hbw_1_i4_light_barrier_interrupted",
+    "1.0"
+  ],
+  "hbw_1_i5_position_switch_pressed": [
+    "hbw_1_i5_position_switch_pressed",
+    "1.0"
+  ],
+  "hbw_1_i6_position_switch_pressed": [
+    "hbw_1_i6_position_switch_pressed",
+    "1.0"
+  ],
+  "hbw_1_i7_position_switch_pressed": [
+    "hbw_1_i7_position_switch_pressed",
+    "1.0"
+  ],
+  "hbw_1_i8_position_switch_pressed": [
+    "hbw_1_i8_position_switch_pressed",
+    "1.0"
+  ],
+  "hbw_2_i1_light_barrier_interrupted_00": [
+    "hbw_2_i1_light_barrier_interrupted",
+    "0.0"
+  ],
+  "hbw_2_i1_light_barrier_interrupted": [
+    "hbw_2_i1_light_barrier_interrupted",
+    "1.0"
+  ],
+  "hbw_2_i2_light_barrier_interrupted_00": [
+    "hbw_2_i2_light_barrier_interrupted",
+    "0.0"
+  ],
+  "hbw_2_i2_light_barrier_interrupted": [
+    "hbw_2_i2_light_barrier_interrupted",
+    "1.0"
+  ],
+  "hbw_2_i3_light_barrier_interrupted_00": [
+    "hbw_2_i3_light_barrier_interrupted",
+    "1.0"
+  ],
+  "hbw_2_i4_light_barrier_interrupted_00": [
+    "hbw_2_i4_light_barrier_interrupted",
+    "0.0"
+  ],
+  "hbw_2_i4_light_barrier_interrupted": [
+    "hbw_2_i4_light_barrier_interrupted",
+    "1.0"
+  ],
+  "hbw_2_i5_position_switch_pressed_00": [
+    "hbw_2_i5_position_switch_pressed",
+    "0.0"
+  ],
+  "hbw_2_i5_position_switch_pressed": [
+    "hbw_2_i5_position_switch_pressed",
+    "1.0"
+  ],
+  "hbw_2_i6_position_switch_pressed_00": [
+    "hbw_2_i6_position_switch_pressed",
+    "0.0"
+  ],
+  "hbw_2_i6_position_switch_pressed": [
+    "hbw_2_i6_position_switch_pressed",
+    "1.0"
+  ],
+  "hbw_2_i7_position_switch_pressed_00": [
+    "hbw_2_i7_position_switch_pressed",
+    "0.0"
+  ],
+  "hbw_2_i7_position_switch_pressed": [
+    "hbw_2_i7_position_switch_pressed",
+    "1.0"
+  ],
+  "hbw_2_i8_position_switch_pressed_00": [
+    "hbw_2_i8_position_switch_pressed",
+    "0.0"
+  ],
+  "hbw_2_i8_position_switch_pressed": [
+    "hbw_2_i8_position_switch_pressed",
+    "1.0"
+  ],
+  "hw": [
+    "hw_1_i8_light_barrier_interrupted",
+    "0.0"
+  ],
+  "hw_1_i6_manual_switch_pressed": [
+    "hw_1_i6_manual_switch_pressed",
+    "1.0"
+  ],
+  "hw_1_i7_manual_switch_pressed": [
+    "hw_1_i7_manual_switch_pressed",
+    "1.0"
+  ],
+  "hw_1_i8_light_barrier_interrupted": [
+    "hw_1_i8_light_barrier_interrupted",
+    "1.0"
+  ],
+  "mm": [
+    "mm_1_i4_light_barrier_interrupted",
+    "0.0"
+  ],
+  "mm_1_i1_position_switch_pressed": [
+    "mm_1_i1_position_switch_pressed",
+    "1.0"
+  ],
+  "mm_1_i2_position_switch_pressed": [
+    "mm_1_i2_position_switch_pressed",
+    "1.0"
+  ],
+  "mm_1_i3_position_switch_pressed": [
+    "mm_1_i3_position_switch_pressed",
+    "1.0"
+  ],
+  "mm_1_i4_light_barrier_interrupted": [
+    "mm_1_i4_light_barrier_interrupted",
+    "1.0"
+  ],
+  "mm_2_i1_position_switch_pressed_00": [
+    "mm_2_i1_position_switch_pressed",
+    "0.0"
+  ],
+  "mm_2_i1_position_switch_pressed": [
+    "mm_2_i1_position_switch_pressed",
+    "1.0"
+  ],
+  "mm_2_i2_position_switch_pressed_00": [
+    "mm_2_i2_position_switch_pressed",
+    "0.0"
+  ],
+  "mm_2_i2_position_switch_pressed": [
+    "mm_2_i2_position_switch_pressed",
+    "1.0"
+  ],
+  "mm_2_i3_position_switch_pressed_00": [
+    "mm_2_i3_position_switch_pressed",
+    "0.0"
+  ],
+  "mm_2_i3_position_switch_pressed": [
+    "mm_2_i3_position_switch_pressed",
+    "1.0"
+  ],
+  "mm_2_i4_light_barrier_interrupted_00": [
+    "mm_2_i4_light_barrier_interrupted",
+    "0.0"
+  ],
+  "mm_2_i4_light_barrier_interrupted": [
+    "mm_2_i4_light_barrier_interrupted",
+    "1.0"
+  ],
+  "ov": [
+    "ov_1_i5_light_barrier_interrupted",
+    "0.0"
+  ],
+  "ov_1_i1_position_switch_pressed": [
+    "ov_1_i1_position_switch_pressed",
+    "1.0"
+  ],
+  "ov_1_i2_position_switch_pressed": [
+    "ov_1_i2_position_switch_pressed",
+    "1.0"
+  ],
+  "ov_1_i5_light_barrier_interrupted": [
+    "ov_1_i5_light_barrier_interrupted",
+    "1.0"
+  ],
+  "ov_2_i1_position_switch_pressed_00": [
+    "ov_2_i1_position_switch_pressed",
+    "0.0"
+  ],
+  "ov_2_i1_position_switch_pressed": [
+    "ov_2_i1_position_switch_pressed",
+    "1.0"
+  ],
+  "ov_2_i2_position_switch_pressed_00": [
+    "ov_2_i2_position_switch_pressed",
+    "0.0"
+  ],
+  "ov_2_i2_position_switch_pressed": [
+    "ov_2_i2_position_switch_pressed",
+    "1.0"
+  ],
+  "ov_2_i5_light_barrier_interrupted_00": [
+    "ov_2_i5_light_barrier_interrupted",
+    "0.0"
+  ],
+  "ov_2_i5_light_barrier_interrupted": [
+    "ov_2_i5_light_barrier_interrupted",
+    "1.0"
+  ],
+  "pm": [
+    "pm_1_i8_capacitive_sensor_electric_field_changed",
+    "0.0"
+  ],
+  "pm_1_i1_position_switch_pressed": [
+    "pm_1_i1_position_switch_pressed",
+    "1.0"
+  ],
+  "pm_1_i2_position_switch_pressed": [
+    "pm_1_i2_position_switch_pressed",
+    "1.0"
+  ],
+  "pm_1_i4_light_barrier_interrupted": [
+    "pm_1_i4_light_barrier_interrupted",
+    "1.0"
+  ],
+  "pm_1_i5_light_barrier_interrupted": [
+    "pm_1_i5_light_barrier_interrupted",
+    "1.0"
+  ],
+  "pm_1_i6_capacitive_sensor_electric_field_changed": [
+    "pm_1_i6_capacitive_sensor_electric_field_changed",
+    "1.0"
+  ],
+  "pm_1_i7_capacitive_sensor_electric_field_changed": [
+    "pm_1_i7_capacitive_sensor_electric_field_changed",
+    "1.0"
+  ],
+  "pm_1_i8_capacitive_sensor_electric_field_changed": [
+    "pm_1_i8_capacitive_sensor_electric_field_changed",
+    "1.0"
+  ],
+  "sm_1_detected_color_00": [
+    "sm_1_detected_color",
+    ".no_reading"
+  ],
+  "sm_1_detected_color_01": [
+    "sm_1_detected_color",
+    "blue"
+  ],
+  "sm_1_detected_color_02": [
+    "sm_1_detected_color",
+    "red"
+  ],
+  "sm": [
+    "sm_1_i8_light_barrier_interrupted",
+    "0.0"
+  ],
+  "sm_1_i1_light_barrier_interrupted": [
+    "sm_1_i1_light_barrier_interrupted",
+    "1.0"
+  ],
+  "sm_1_i3_light_barrier_interrupted": [
+    "sm_1_i3_light_barrier_interrupted",
+    "1.0"
+  ],
+  "sm_1_i6_light_barrier_interrupted": [
+    "sm_1_i6_light_barrier_interrupted",
+    "1.0"
+  ],
+  "sm_1_i7_light_barrier_interrupted": [
+    "sm_1_i7_light_barrier_interrupted",
+    "1.0"
+  ],
+  "sm_1_i8_light_barrier_interrupted": [
+    "sm_1_i8_light_barrier_interrupted",
+    "1.0"
+  ],
+  "sm_2_i1_light_barrier_interrupted_00": [
+    "sm_2_i1_light_barrier_interrupted",
+    "0.0"
+  ],
+  "sm_2_i1_light_barrier_interrupted": [
+    "sm_2_i1_light_barrier_interrupted",
+    "1.0"
+  ],
+  "sm_2_i6_light_barrier_interrupted_00": [
+    "sm_2_i6_light_barrier_interrupted",
+    "0.0"
+  ],
+  "sm_2_i6_light_barrier_interrupted": [
+    "sm_2_i6_light_barrier_interrupted",
+    "1.0"
+  ],
+  "sm_2_i7_light_barrier_interrupted_00": [
+    "sm_2_i7_light_barrier_interrupted",
+    "0.0"
+  ],
+  "sm_2_i7_light_barrier_interrupted": [
+    "sm_2_i7_light_barrier_interrupted",
+    "1.0"
+  ],
+  "sm_2_i8_light_barrier_interrupted_00": [
+    "sm_2_i8_light_barrier_interrupted",
+    "0.0"
+  ],
+  "sm_2_i8_light_barrier_interrupted": [
+    "sm_2_i8_light_barrier_interrupted",
+    "1.0"
+  ],
+  "vgr": [
+    "vgr_1_i3_position_switch_pressed",
+    "0.0"
+  ],
+  "vgr_1_i1_position_switch_pressed": [
+    "vgr_1_i1_position_switch_pressed",
+    "1.0"
+  ],
+  "vgr_1_i2_position_switch_pressed": [
+    "vgr_1_i2_position_switch_pressed",
+    "1.0"
+  ],
+  "vgr_1_i3_position_switch_pressed": [
+    "vgr_1_i3_position_switch_pressed",
+    "1.0"
+  ],
+  "vgr_2_i1_position_switch_pressed_00": [
+    "vgr_2_i1_position_switch_pressed",
+    "0.0"
+  ],
+  "vgr_2_i1_position_switch_pressed": [
+    "vgr_2_i1_position_switch_pressed",
+    "1.0"
+  ],
+  "vgr_2_i2_position_switch_pressed_00": [
+    "vgr_2_i2_position_switch_pressed",
+    "0.0"
+  ],
+  "vgr_2_i2_position_switch_pressed": [
+    "vgr_2_i2_position_switch_pressed",
+    "1.0"
+  ],
+  "vgr_2_i3_position_switch_pressed_00": [
+    "vgr_2_i3_position_switch_pressed",
+    "0.0"
+  ],
+  "vgr_2_i3_position_switch_pressed": [
+    "vgr_2_i3_position_switch_pressed",
+    "1.0"
+  ],
+  "wt": [
+    "wt_1_i4_position_switch_pressed",
+    "0.0"
+  ],
+  "wt_1_i3_position_switch_pressed": [
+    "wt_1_i3_position_switch_pressed",
+    "1.0"
+  ],
+  "wt_1_i4_position_switch_pressed": [
+    "wt_1_i4_position_switch_pressed",
+    "1.0"
+  ],
+  "wt_2_i3_position_switch_pressed_00": [
+    "wt_2_i3_position_switch_pressed",
+    "0.0"
+  ],
+  "wt_2_i3_position_switch_pressed": [
+    "wt_2_i3_position_switch_pressed",
+    "1.0"
+  ],
+  "wt_2_i4_position_switch_pressed_00": [
+    "wt_2_i4_position_switch_pressed",
+    "0.0"
+  ],
+  "wt_2_i4_position_switch_pressed": [
+    "wt_2_i4_position_switch_pressed",
+    "1.0"
+  ]
+}

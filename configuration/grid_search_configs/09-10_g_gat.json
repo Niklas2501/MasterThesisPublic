@@ -1,0 +1,43 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "json_files_": [
+    "09-10_g_gat/09-10_g_gat_2B_2L_C17_V0.json",
+    "09-10_g_gat/09-10_g_gat_2B_2L_C17_V1.json",
+    "09-10_g_gat/09-10_g_gat_2B_2L_C17_V2.json",
+    "09-10_g_gat/09-10_g_gat_2B_2L_C17_V3.json",
+    "09-10_g_gat/09-10_g_gat_2B_2L_C17_V4.json",
+    "09-10_g_gat/09-10_g_gat_2B_4L_C6_V0.json",
+    "09-10_g_gat/09-10_g_gat_2B_4L_C6_V1.json",
+    "09-10_g_gat/09-10_g_gat_2B_4L_C6_V2.json",
+    "09-10_g_gat/09-10_g_gat_2B_4L_C6_V3.json",
+    "09-10_g_gat/09-10_g_gat_2B_4L_C6_V4.json",
+    "09-10_g_gat/09-10_g_gat_2B_4L_C6_V5.json",
+    "09-10_g_gat/09-10_g_gat_2B_4L_C6_V6.json",
+    "09-10_g_gat/09-10_g_gat_2B_4L_C6_V7.json"
+  ],
+  "json_files": [
+    "09-10_g_gat/09-10_g_gat_2B_4L_C41_V0.json",
+    "09-10_g_gat/09-10_g_gat_2B_4L_C41_V1.json",
+    "09-10_g_gat/09-10_g_gat_2B_4L_C41_V2.json",
+    "09-10_g_gat/09-10_g_gat_2B_4L_C41_V3.json",
+    "09-10_g_gat/09-10_g_gat_2B_4L_C41_V4.json",
+    "09-10_g_gat/09-10_g_gat_2B_4L_C41_V5.json",
+    "09-10_g_gat/09-10_g_gat_2B_4L_C41_V6.json",
+    "09-10_g_gat/09-10_g_gat_3B_4L_C17_V0.json",
+    "09-10_g_gat/09-10_g_gat_3B_4L_C17_V1.json",
+    "09-10_g_gat/09-10_g_gat_3B_4L_C17_V2.json",
+    "09-10_g_gat/09-10_g_gat_3B_4L_C17_V3.json",
+    "09-10_g_gat/09-10_g_gat_3B_4L_C17_V4.json"
+  ]
+}

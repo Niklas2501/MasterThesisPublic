@@ -1,0 +1,40 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "json_files": [
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_1",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_2",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_3",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_4",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_5",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_6",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_7",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_8",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_9",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_10",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_11",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_12",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_13",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_14",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_15",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_16",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_17",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_18",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_19",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_20",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_21",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_22",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_23",
+    "08-21_gs_mixed_gat/08-21_gs_mixed_gat_24"
+  ]
+}

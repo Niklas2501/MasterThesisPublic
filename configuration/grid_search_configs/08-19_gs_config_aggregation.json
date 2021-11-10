@@ -1,0 +1,27 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "final_agg": [
+    "global_avg",
+    "global_max",
+    "global_sum",
+    "global_att",
+    "global_att_sum",
+    "custom_flatten",
+    "rnn"
+  ],
+  "permute_before_agg": [
+    true,
+    false
+  ]
+}

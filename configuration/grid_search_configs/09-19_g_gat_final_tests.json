@@ -1,0 +1,36 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "json_files": [
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v0.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v1.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v2.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v3.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v4.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v5.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v6.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v7.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v8.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v9.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v10.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v11.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v12.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v13.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v14.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v15.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v16.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v17.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v18.json",
+    "09-19_g_gat_final_tests/09-19_g_gat_final_v19.json"
+  ]
+}

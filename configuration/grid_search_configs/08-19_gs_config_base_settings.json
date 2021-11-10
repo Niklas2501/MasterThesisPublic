@@ -1,0 +1,35 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "learning_rate": [
+    0.001,
+    0.0001
+  ],
+  "dropout_rate": [
+    0.0,
+    0.10,
+    0.15,
+    0.20
+  ],
+  "early_stopping_limit": [
+    10,
+    15,
+    20,
+    25
+  ],
+  "gradient_cap": [
+    5,
+    20,
+    1000
+  ]
+}

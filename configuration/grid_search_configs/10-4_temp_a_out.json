@@ -1,0 +1,20 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "json_files": [
+    "10-4_temp_a_out/10-4_temp_a_out_a_pre.json",
+    "10-4_temp_a_out/10-4_temp_a_out_a_param.json",
+    "10-4_temp_a_out/10-4_temp_a_out_a_emb_v1.json",
+    "10-4_temp_a_out/10-4_temp_a_out_a_emb_v3.json"
+  ]
+}

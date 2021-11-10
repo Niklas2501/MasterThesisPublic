@@ -1,0 +1,32 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "json_files": [
+    "_selected_models/stgcn_gat_1d.json",
+    "_selected_models/stgcn_gat_g.json",
+    "_selected_models/stgcn_gat_2d.json",
+    "_selected_models/stgcn_gcn_2d_a_param.json",
+    "_selected_models/stgcn_gcn_1d_a_emb_v1.json",
+    "_selected_models/stgcn_gcn_1d_a_emb_v2.json",
+    "_selected_models/stgcn_gcn_1d_a_emb_v3.json",
+    "_selected_models/stgcn_gcn_1d_a_param.json",
+    "_selected_models/stgcn_gcn_1d_a_opt.json",
+    "_selected_models/stgcn_gcn_g_a_emb_v1.json",
+    "_selected_models/stgcn_gcn_g_a_emb_v2.json",
+    "_selected_models/stgcn_gcn_g_a_emb_v3.json",
+    "_selected_models/stgcn_gcn_g_a_param.json",
+    "_selected_models/stgcn_gcn_g_a_opt.json",
+    "_selected_models/seq_gcn_g_a_param.json",
+    "_selected_models/seq_gat_g.json"
+  ]
+}

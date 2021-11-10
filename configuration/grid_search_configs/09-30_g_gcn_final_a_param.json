@@ -1,0 +1,80 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "modifications": [
+    [
+      "adaptive_lr",
+      "grouped_1d_1x1_agg"
+    ],
+    [
+      "adaptive_lr",
+      "grouped_1d_1x1_agg",
+      "share_graph_weights"
+    ],
+    [
+      "adaptive_lr",
+      "grouped_1d_1x1_agg",
+      "knn_red",
+      "force_identity",
+      "force_normalisation"
+    ],
+    [
+      "adaptive_lr",
+      "grouped_1d_1x1_agg",
+      "knn_red",
+      "force_identity",
+      "force_normalisation",
+      "share_graph_weights"
+    ],
+    [
+      "adaptive_lr",
+      "grouped_1d_1x1_agg",
+      "knn_red",
+      "force_identity"
+    ],
+    [
+      "adaptive_lr",
+      "grouped_1d_1x1_agg",
+      "knn_red",
+      "force_identity",
+      "share_graph_weights"
+    ]
+  ],
+  "cnn_1D_filters": [
+    [
+      10,
+      10,
+      20,
+      20
+    ],
+    [
+      20,
+      20,
+      40,
+      40
+    ]
+  ],
+  "cnn_1D_padding": [
+    "causal",
+    "same"
+  ],
+  "var_parameter": [
+    8,
+    10,
+    12
+  ],
+  "res_connection": [
+    "v0",
+    "v3"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "notes": "a_emb_v3 batch norm and activation before malmut disabled",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "modifications": [
+    [
+      "adaptive_lr"
+    ],
+    [
+      "adaptive_lr",
+      "knn_red"
+    ],
+    [
+      "adaptive_lr",
+      "knn_red",
+      "force_identity"
+    ],
+    [
+      "adaptive_lr",
+      "knn_red",
+      "force_identity",
+      "force_normalisation"
+    ],
+    [
+      "adaptive_lr",
+      "force_identity",
+      "force_normalisation"
+    ],
+    [
+      "adaptive_lr",
+      "l1_reg",
+      "force_identity"
+    ],
+    [
+      "adaptive_lr",
+      "l1_reg",
+      "force_identity",
+      "force_normalisation"
+    ],
+    [
+      "adaptive_lr",
+      "share_graph_weights"
+    ],
+    [
+      "adaptive_lr",
+      "knn_red",
+      "share_graph_weights"
+    ],
+    [
+      "adaptive_lr",
+      "knn_red",
+      "force_identity",
+      "share_graph_weights"
+    ],
+    [
+      "adaptive_lr",
+      "knn_red",
+      "force_identity",
+      "force_normalisation",
+      "share_graph_weights"
+    ],
+    [
+      "adaptive_lr",
+      "force_identity",
+      "force_normalisation",
+      "share_graph_weights"
+    ],
+    [
+      "adaptive_lr",
+      "l1_reg",
+      "force_identity",
+      "share_graph_weights"
+    ],
+    [
+      "adaptive_lr",
+      "l1_reg",
+      "force_identity",
+      "force_normalisation",
+      "share_graph_weights"
+    ]
+  ],
+  "activation": [
+    "relu",
+    "leaky_relu"
+  ],
+  "a_variant": [
+    "a_emb_v3"
+  ],
+  "var_parameter": [
+    10
+  ],
+  "res_connection": [
+    "v0"
+  ]
+}

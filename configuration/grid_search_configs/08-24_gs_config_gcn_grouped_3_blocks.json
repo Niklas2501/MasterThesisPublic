@@ -1,0 +1,65 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "modifications": [
+    [
+      "adaptive_lr",
+      "share_graph_weights",
+      "grouped_1d_1x1_agg",
+      "l1_reg"
+    ],
+    [
+      "adaptive_lr",
+      "share_graph_weights",
+      "grouped_1d_1x1_agg",
+      "knn_red"
+    ],
+    [
+      "adaptive_lr",
+      "share_graph_weights",
+      "grouped_1d_1x1_agg"
+    ]
+  ],
+  "cnn_1D_filters": [
+    [
+      10,
+      20,
+      20
+    ],
+    [
+      5,
+      10,
+      10
+    ]
+  ],
+  "cnn_1D_dilation_rates": [
+    [
+      2,
+      4,
+      4
+    ],
+    [
+      2,
+      4,
+      8
+    ]
+  ],
+  "a_variant": [
+    "a_emb_v1",
+    "a_emb_v2",
+    "a_param"
+  ],
+  "activation": [
+    "leaky_relu"
+  ]
+}

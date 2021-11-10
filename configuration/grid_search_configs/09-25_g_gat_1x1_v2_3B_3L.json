@@ -1,0 +1,108 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "cnn_1D_filters": [
+    [
+      5,
+      5,
+      5,
+      10,
+      10,
+      10,
+      20,
+      20,
+      20
+    ],
+    [
+      10,
+      15,
+      20,
+      10,
+      15,
+      20,
+      10,
+      15,
+      20
+    ],
+    [
+      5,
+      10,
+      15,
+      5,
+      10,
+      15,
+      5,
+      10,
+      15
+    ]
+  ],
+  "cnn_1D_dilation_rates": [
+    [
+      2,
+      4,
+      8,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    [
+      2,
+      4,
+      8,
+      2,
+      4,
+      8,
+      2,
+      4,
+      8
+    ],
+    [
+      1,
+      2,
+      4,
+      1,
+      2,
+      4,
+      1,
+      2,
+      4
+    ]
+  ],
+  "modifications": [
+    [
+      "adaptive_lr",
+      "share_graph_weights",
+      "grouped_g_1x1_agg"
+    ],
+    [
+      "adaptive_lr",
+      "grouped_g_1x1_agg"
+    ]
+  ],
+  "gnn_layer_parameter": [
+    1,
+    3,
+    6
+  ],
+  "res_connection": [
+    "v0",
+    "v3"
+  ],
+  "activation": [
+    "relu",
+    "leaky_relu"
+  ]
+}

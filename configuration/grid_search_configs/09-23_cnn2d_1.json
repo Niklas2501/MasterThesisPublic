@@ -1,0 +1,36 @@
+{
+  "notes": "",
+  "metrics": [
+    "F1",
+    "F2",
+    "Recall",
+    "Precision"
+  ],
+  "sorted_by": [
+    0,
+    1,
+    2
+  ],
+  "json_files": [
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_0.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_1.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_2.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_3.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_4.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_5.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_6.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_7.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_8.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_9.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_10.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_11.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_12.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_13.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_14.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_15.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_16.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_17.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_18.json",
+    "09-23_cnn2d_0/09-23_cnn_2d_1_gat_19.json"
+  ]
+}
