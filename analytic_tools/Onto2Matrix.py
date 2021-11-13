@@ -3,17 +3,31 @@ import json
 import os
 import sys
 
+import matplotlib as mlp
 import matplotlib.pyplot as plt
 import numpy as np
 import owlready2 as owl
 import pandas as pd
+from matplotlib.colors import ListedColormap
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 
 sys.path.append(os.path.abspath(os.path.join(os.getcwd(), os.pardir)))
 
 from stgcn.Dataset import Dataset
-from analytic_tools.TSNE_Vis import discrete_cmap
 from configuration.Configuration import Configuration
+
+
+def discrete_cmap(N):
+    color_list = ['#808080', '#FF0000', '#FFFF00', '#00FF00', '#008000', '#00FFFF', '#000080', '#FF00FF', '#800000',
+                  '#008080', '#0000FF', '#800080', '#DFFF00', '#FFBF00', '#FF7F50', '#DE3163', '#40E0D0', '#CCCCFF',
+                  '#8e44ad']
+
+    # Reduce the list to the number of colors needed.
+    if N < len(color_list):
+        color_list = color_list[0:N]
+    # Convert to a hex color object required by the ListedColormap.
+    color_list = [mlp.colors.hex2color(c) for c in color_list]
+    return ListedColormap(color_list, name='OrangeBlue')
 
 
 def plot(feature_names, linked_features, responsible_relations, force_self_loops, display_labels):
@@ -45,10 +59,10 @@ def plot(feature_names, linked_features, responsible_relations, force_self_loops
             a_plot.loc[f_i, f_j] = c_val
 
     size = 22 if display_labels else 15
-    dpi = 200 if display_labels else 300
+    dpi = 200 if display_labels else 200
 
     fig, ax = plt.subplots(nrows=1, ncols=1, figsize=(size, size), dpi=dpi)
-    im = ax.imshow(a_plot.values, interpolation='none', cmap=discrete_cmap(len(list(color_values.keys())), 'jet'), )
+    im = ax.imshow(a_plot.values, cmap=discrete_cmap(len(list(color_values.keys()))), )
 
     divider = make_axes_locatable(ax)
     cax = divider.append_axes("right", size="5%", pad=0.5)
@@ -59,7 +73,10 @@ def plot(feature_names, linked_features, responsible_relations, force_self_loops
     ax.set_ylabel('i (target)')
     ax.set_xlabel('j (source)')
 
-    ax.tick_params(which='minor', width=0)
+    # x.set_ylabel('i (Zielknoten)')
+    # ax.set_xlabel('j (Ausgangsknoten)')
+
+    ax.tick_params(which='minor', width=0, color='white')
     ax.set_xticks(np.arange(-.5, n, 10), minor=True)
     ax.set_yticks(np.arange(-.5, n, 10), minor=True)
 
@@ -411,7 +428,7 @@ def onto_2_matrix(config, feature_names, daemon=True, temp_id=None):
         a_analysis(a_df)
         plot(feature_names, linked_features, responsible_relations, force_self_loops, display_labels=plot_labels)
         # plot_for_thesis(feature_names, linked_features, responsible_relations)
-        thesis_output(feature_2_iri, responsible_relations, linked_features)
+        # thesis_output(feature_2_iri, responsible_relations, linked_features)
 
 
 def thesis_output(feature_2_iri, responsible_relations, linked_features):
@@ -447,12 +464,12 @@ def thesis_output(feature_2_iri, responsible_relations, linked_features):
         rows.append([a, b, c])
 
     df = pd.DataFrame(data=rows, columns=[
-                      'Relation', 'Feature 1', 'Feature 2'])
+        'Relation', 'Feature 1', 'Feature 2'])
 
     df['F1'] = df.apply(lambda x: x['Feature 1'] if x['Feature 1']
-                        > x['Feature 2'] else x['Feature 2'], axis=1)
+                                                    > x['Feature 2'] else x['Feature 2'], axis=1)
     df['F2'] = df.apply(lambda x: x['Feature 1'] if x['Feature 1']
-                        < x['Feature 2'] else x['Feature 2'], axis=1)
+                                                    < x['Feature 2'] else x['Feature 2'], axis=1)
     df = df.sort_values(by=['F1', 'F2'], ascending=False)
     df = df.drop_duplicates(subset=['F1', 'F2', 'Relation'])
     df = df.groupby(['F1', 'F2'])['Relation'].apply(
@@ -465,6 +482,7 @@ def thesis_output(feature_2_iri, responsible_relations, linked_features):
 
     print(df.to_string())
     # print(df.to_latex(longtable=True, label='tab:relations', index=False))
+
 
 def feature_tuples_from_iri_tuples(iri_tuples, iri_2_features: dict):
     feature_tuples = []
